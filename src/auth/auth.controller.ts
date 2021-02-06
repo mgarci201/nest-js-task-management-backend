@@ -26,5 +26,4 @@ export class AuthController {
     test(@GetUser() user: User) {
         console.log(user);
     }
-} 
-// Uv\ycNtdD_C45OKRkcBo58ENV^Gl\OFY
+}
